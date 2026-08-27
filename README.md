@@ -10,13 +10,11 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" alt="Open to Work"/>
 
-<br/>
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 ### Data Analyst | Market Research Analytics
 
@@ -44,8 +42,6 @@ Built a **SQL Server data warehouse** following **Medallion Architecture** with 
 
 Applied advanced SQL using **CTEs, Joins, Aggregations, Window Functions, and Views** to derive **KPI, customer, product, trend, performance, ranking, and segmentation insights**.
 
-
-
 | Layer | Technology |
 |---|---|
 | Data | SQL Server, Medallion Architecture (Bronze / Silver / Gold) |
@@ -53,17 +49,16 @@ Applied advanced SQL using **CTEs, Joins, Aggregations, Window Functions, and Vi
 | Insights | KPI, Customer, Product, Trend & Performance Analysis |
 
 <a href="https://github.com/ksashi95/sql-data-warehouse-project">
-  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=1324AE" alt="Click Me"/>
+  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-EEF2FF?style=for-the-badge&labelColor=EEF2FF&color=EEF2FF" alt="Click Me"/>
 </a>
 
 ---
 
-### 📊 Power BI Consumer Insights & Market Research Analytics Report
+### 📊 Power BI Consumer Insights & Market Research Analytics
 
 Built an interactive **Power BI consumer insights report** using survey data, Power Query transformations, and Star Schema data modeling.
 
 Implemented **DAX measures and Field Parameters** for dynamic analysis of **consumer preferences, product attributes, purchase intent, survey responses, and Price Sensitivity Meter (PSM) metrics**.
-
 
 | Layer | Technology |
 |---|---|
@@ -74,7 +69,7 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 | Research | Consumer Preferences, Purchase Intent, PSM Analysis |
 
 <a href="https://github.com/ksashi95/consumer_insights_market_research_powerbi">
-  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=1324AE" alt="Click Me"/>
+  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-EEF2FF?style=for-the-badge&labelColor=EEF2FF&color=EEF2FF" alt="Click Me"/>
 </a>
 
 ---
@@ -85,45 +80,46 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/SQL%20Server-808080?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/SQL%20Server-6B7280?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-808080?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-6B7280?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-808080?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Power%20BI-6B7280?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-808080?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-6B7280?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
 
-<img src="https://img.shields.io/badge/Data%20Visualization-808080?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-6B7280?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Visualization"/>
 
-<img src="https://img.shields.io/badge/Power%20Query-808080?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
+<img src="https://img.shields.io/badge/Power%20Query-6B7280?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query"/>
 
-<img src="https://img.shields.io/badge/DAX-808080?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
+<img src="https://img.shields.io/badge/DAX-6B7280?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
 
 </div>
 
 ### 📋 Market Research & Statistics
 
-![Survey Analysis](https://img.shields.io/badge/Survey%20Analysis-808080?style=flat-square)
-![Consumer Insights](https://img.shields.io/badge/Consumer%20Insights-808080?style=flat-square)
-![Quantitative Research](https://img.shields.io/badge/Quantitative%20Research-808080?style=flat-square)
-![Qualitative Research](https://img.shields.io/badge/Qualitative%20Research-808080?style=flat-square)
-![Brand Health Monitoring](https://img.shields.io/badge/Brand%20Health%20Monitoring-808080?style=flat-square)
-![Central Location Tests](https://img.shields.io/badge/Central%20Location%20Tests-808080?style=flat-square)
-![Likert Scale Analysis](https://img.shields.io/badge/Likert%20Scale%20Analysis-808080?style=flat-square)
-![JAR Analysis](https://img.shields.io/badge/JAR%20Analysis-808080?style=flat-square)
-![Price Sensitivity Meter](https://img.shields.io/badge/Price%20Sensitivity%20Meter-808080?style=flat-square)
-![Rank Analysis](https://img.shields.io/badge/Rank%20Analysis-808080?style=flat-square)
+![Survey Analysis](https://img.shields.io/badge/Survey%20Analysis-6B7280?style=flat-square)
+![Consumer Insights](https://img.shields.io/badge/Consumer%20Insights-6B7280?style=flat-square)
+![Quantitative Research](https://img.shields.io/badge/Quantitative%20Research-6B7280?style=flat-square)
+![Qualitative Research](https://img.shields.io/badge/Qualitative%20Research-6B7280?style=flat-square)
+![Brand Health Monitoring](https://img.shields.io/badge/Brand%20Health%20Monitoring-6B7280?style=flat-square)
+![Central Location Tests](https://img.shields.io/badge/Central%20Location%20Tests-6B7280?style=flat-square)
+![Likert Scale Analysis](https://img.shields.io/badge/Likert%20Scale%20Analysis-6B7280?style=flat-square)
+![JAR Analysis](https://img.shields.io/badge/JAR%20Analysis-6B7280?style=flat-square)
+![Price Sensitivity Meter](https://img.shields.io/badge/Price%20Sensitivity%20Meter-6B7280?style=flat-square)
+![Rank Analysis](https://img.shields.io/badge/Rank%20Analysis-6B7280?style=flat-square)
 
 ### ⚙️ Data Practices
 
-![ETL](https://img.shields.io/badge/ETL-808080?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-808080?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-808080?style=flat-square)
-![Data Validation](https://img.shields.io/badge/Data%20Validation-808080?style=flat-square)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-808080?style=flat-square)
-![Analytical Reporting](https://img.shields.io/badge/Analytical%20Reporting-808080?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-6B7280?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6B7280?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6B7280?style=flat-square)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-6B7280?style=flat-square)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-6B7280?style=flat-square)
+![Analytical Reporting](https://img.shields.io/badge/Analytical%20Reporting-6B7280?style=flat-square)
 
 <!--
+
 ---
 
 ## 📊 GitHub Stats
@@ -136,7 +132,6 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 
 </div>
 
-
 ---
 
 ## 🔥 GitHub Streak
@@ -146,25 +141,42 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 <img src="https://streak-stats.demolab.com?user=ksashi95&theme=default" alt="GitHub Streak"/>
 
 </div>
+
 -->
+
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ksashi95/"><img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn"/></a>
-<a href="mailto:ashiks21295@gmail.com?subject=Professional%20Inquiry"><img src="https://img.icons8.com/color/96/gmail-new.png" width="42" height="42" alt="Gmail"/></a>
-<a href="https://medium.com/@ksashi95"><img src="https://img.icons8.com/ios-filled/100/000000/medium-logo.png" width="42" height="42" alt="Medium"/></a>
-<a href="https://github.com/ksashi95"><img src="https://img.icons8.com/glyph-neue/96/181717/github.png" width="42" height="42" alt="GitHub"/></a>
-<a href="https://www.reddit.com/user/ashiks95/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="42" height="42" alt="Reddit"/></a>
-<a href="https://discord.com/users/1421266322116968549"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord"/></a>
+<a href="https://www.linkedin.com/in/ksashi95/">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ashiks21295@gmail.com?subject=Professional%20Inquiry">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="42" height="42" alt="Gmail"/>
+</a>
+
+<a href="https://medium.com/@ksashi95">
+  <img src="https://cdn.simpleicons.org/medium/000000" width="42" height="42" alt="Medium"/>
+</a>
+
+<a href="https://github.com/ksashi95">
+  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/>
+</a>
+
+<a href="https://www.reddit.com/user/ashiks95/">
+  <img src="https://cdn.simpleicons.org/reddit/FF4500" width="42" height="42" alt="Reddit"/>
+</a>
+
+<a href="https://discord.com/users/1421266322116968549">
+  <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord"/>
+</a>
 
 </div>
 
 <br/>
-
-
 
 <div align="center">
 
