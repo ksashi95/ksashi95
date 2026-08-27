@@ -58,7 +58,7 @@ Applied advanced SQL using **CTEs, Joins, Aggregations, Window Functions, and Vi
 
 ---
 
-### 📊 Power BI Consumer Insights & Market Research Analytics Report
+### 📊 Power BI Consumer Insights & Market Research Analytics
 
 Built an interactive **Power BI consumer insights report** using survey data, Power Query transformations, and Star Schema data modeling.
 
