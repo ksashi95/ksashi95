@@ -38,7 +38,7 @@ Experienced in using **SQL Server, Excel, Power Query, Power BI, and DAX** to tr
 
 ## 🗂️ Featured Projects
 
-### 📦 SQL Data Warehouse & Analytics Project
+### 📦 SQL Data Warehouse & Analytics
 
 Built a **SQL Server data warehouse** following **Medallion Architecture** with Bronze, Silver, and Gold layers.
 
