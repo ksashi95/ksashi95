@@ -150,29 +150,17 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ksashi95/">
-  <img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/ksashi95/"><img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn"/></a>
 
-<a href="mailto:ashiks21295@gmail.com?subject=Professional%20Inquiry">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" width="42" height="42" alt="Gmail"/>
-</a>
+<a href="mailto:ashiks21295@gmail.com?subject=Professional%20Inquiry"><img src="https://img.icons8.com/color/96/gmail-new.png" width="42" height="42" alt="Gmail"/></a>
 
-<a href="https://medium.com/@ksashi95">
-  <img src="https://cdn.simpleicons.org/medium/000000" width="42" height="42" alt="Medium"/>
-</a>
+<a href="https://medium.com/@ksashi95"><img src="https://cdn.simpleicons.org/medium/000000" width="42" height="42" alt="Medium"/></a>
 
-<a href="https://github.com/ksashi95">
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/>
-</a>
+<a href="https://github.com/ksashi95"><img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/></a>
 
-<a href="https://www.reddit.com/user/ashiks95/">
-  <img src="https://cdn.simpleicons.org/reddit/FF4500" width="42" height="42" alt="Reddit"/>
-</a>
+<a href="https://www.reddit.com/user/ashiks95/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="42" height="42" alt="Reddit"/></a>
 
-<a href="https://discord.com/users/1421266322116968549">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord"/>
-</a>
+<a href="https://discord.com/users/1421266322116968549"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord"/></a>
 
 </div>
 
