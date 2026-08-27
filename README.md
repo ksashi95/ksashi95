@@ -53,7 +53,7 @@ Applied advanced SQL using **CTEs, Joins, Aggregations, Window Functions, and Vi
 | Insights | KPI, Customer, Product, Trend & Performance Analysis |
 
 <a href="https://github.com/ksashi95/sql-data-warehouse-project">
-  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=1324AE" alt="Click Me"/>
+  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-EEF2FF?style=for-the-badge&labelColor=EEF2FF&color=EEF2FF" alt="Click Me"/>
 </a>
 
 ---
@@ -74,7 +74,7 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 | Research | Consumer Preferences, Purchase Intent, PSM Analysis |
 
 <a href="https://github.com/ksashi95/consumer_insights_market_research_powerbi">
-  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=1324AE" alt="Click Me"/>
+  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-EEF2FF?style=for-the-badge&labelColor=EEF2FF&color=EEF2FF" alt="Click Me"/>
 </a>
 
 ---
