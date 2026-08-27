@@ -10,11 +10,13 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge" alt="Open to Work"/>
 
+<br/>
+
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ### Data Analyst | Market Research Analytics
 
@@ -42,6 +44,8 @@ Built a **SQL Server data warehouse** following **Medallion Architecture** with 
 
 Applied advanced SQL using **CTEs, Joins, Aggregations, Window Functions, and Views** to derive **KPI, customer, product, trend, performance, ranking, and segmentation insights**.
 
+
+
 | Layer | Technology |
 |---|---|
 | Data | SQL Server, Medallion Architecture (Bronze / Silver / Gold) |
@@ -49,16 +53,17 @@ Applied advanced SQL using **CTEs, Joins, Aggregations, Window Functions, and Vi
 | Insights | KPI, Customer, Product, Trend & Performance Analysis |
 
 <a href="https://github.com/ksashi95/sql-data-warehouse-project">
-  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-EEF2FF?style=for-the-badge&labelColor=EEF2FF&color=EEF2FF" alt="Click Me"/>
+  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=1324AE" alt="Click Me"/>
 </a>
 
 ---
 
-### 📊 Power BI Consumer Insights & Market Research Analytics
+### 📊 Power BI Consumer Insights & Market Research Analytics Report
 
 Built an interactive **Power BI consumer insights report** using survey data, Power Query transformations, and Star Schema data modeling.
 
 Implemented **DAX measures and Field Parameters** for dynamic analysis of **consumer preferences, product attributes, purchase intent, survey responses, and Price Sensitivity Meter (PSM) metrics**.
+
 
 | Layer | Technology |
 |---|---|
@@ -69,7 +74,7 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 | Research | Consumer Preferences, Purchase Intent, PSM Analysis |
 
 <a href="https://github.com/ksashi95/consumer_insights_market_research_powerbi">
-  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-EEF2FF?style=for-the-badge&labelColor=EEF2FF&color=EEF2FF" alt="Click Me"/>
+  <img src="https://img.shields.io/badge/⚡%20CLICK%20ME%20→-F3F4F6?style=for-the-badge&labelColor=F3F4F6&color=F3F4F6&logoColor=1324AE" alt="Click Me"/>
 </a>
 
 ---
@@ -119,7 +124,6 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 ![Analytical Reporting](https://img.shields.io/badge/Analytical%20Reporting-6B7280?style=flat-square)
 
 <!--
-
 ---
 
 ## 📊 GitHub Stats
@@ -132,6 +136,7 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 
 </div>
 
+
 ---
 
 ## 🔥 GitHub Streak
@@ -141,9 +146,7 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 <img src="https://streak-stats.demolab.com?user=ksashi95&theme=default" alt="GitHub Streak"/>
 
 </div>
-
 -->
-
 ---
 
 ## 🤝 Connect With Me
@@ -151,20 +154,17 @@ Implemented **DAX measures and Field Parameters** for dynamic analysis of **cons
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ksashi95/"><img src="https://img.icons8.com/color/96/linkedin.png" width="42" height="42" alt="LinkedIn"/></a>
-
 <a href="mailto:ashiks21295@gmail.com?subject=Professional%20Inquiry"><img src="https://img.icons8.com/color/96/gmail-new.png" width="42" height="42" alt="Gmail"/></a>
-
 <a href="https://medium.com/@ksashi95"><img src="https://cdn.simpleicons.org/medium/000000" width="42" height="42" alt="Medium"/></a>
-
 <a href="https://github.com/ksashi95"><img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/></a>
-
 <a href="https://www.reddit.com/user/ashiks95/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="42" height="42" alt="Reddit"/></a>
-
 <a href="https://discord.com/users/1421266322116968549"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" height="42" alt="Discord"/></a>
 
 </div>
 
 <br/>
+
+
 
 <div align="center">
 
