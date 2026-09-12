@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="K S Ashish analytics profile header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light-v2.svg">
+  <img src="./assets/hero-light-v2.svg" width="100%" alt="K S Ashish analytics profile header"/>
 </picture>
 
 <br>
@@ -123,8 +123,8 @@ Interested in roles where **data preparation + analysis + visualization + busine
 <img src="https://komarev.com/ghpvc/?username=ksashi95&label=Profile%20Views&color=1324ae&style=flat" alt="Profile Views"/>
 <br><br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/pipeline-light.svg">
-  <img src="./assets/pipeline-light.svg" width="100%" alt="Animated analytics pipeline"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pipeline-light-v2.svg">
+  <img src="./assets/pipeline-light-v2.svg" width="100%" alt="Animated analytics pipeline"/>
 </picture>
 </div>
